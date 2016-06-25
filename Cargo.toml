@@ -1,0 +1,8 @@
+[package]
+
+name = "table"
+version = "0.0.1"
+authors = [ "Oliver Goodman <oag@optusnet.com.au>" ]
+include = ["src/**/*", "Cargo.toml"]
+
+[lib]
